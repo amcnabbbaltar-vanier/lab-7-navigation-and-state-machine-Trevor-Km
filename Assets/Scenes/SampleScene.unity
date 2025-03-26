@@ -2785,7 +2785,7 @@ MonoBehaviour:
   AttackRange: 2
   PlayerLayer:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 4294967295
   currentState: 0
 --- !u!195 &2114487927
 NavMeshAgent:
